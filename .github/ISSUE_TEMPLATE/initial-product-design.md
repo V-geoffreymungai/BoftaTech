@@ -2,8 +2,8 @@
 name: Initial Product Design
 about: Get requirements for website's landing page
 title: Initial Product Design
-labels: ''
-assignees: ''
+labels: good first issue, question
+assignees: V-geoffreymungai
 
 ---
 
